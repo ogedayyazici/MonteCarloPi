@@ -1,8 +1,4 @@
-package com.company;
-
-
 import java.security.SecureRandom;
-import java.util.Random;
 
 // Author @ogeday
 
